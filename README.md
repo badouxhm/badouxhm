@@ -38,6 +38,7 @@
 </a> 
 </kbd> 
 <br> 
+<br> 
 <kbd> 
 <kbd>Programming and Markup Languages</kbd> 
 <br> 
@@ -76,6 +77,7 @@
 </a> 
 </kbd> 
 <br> 
+<br> 
 <kbd> 
 <kbd>Backend</kbd> 
 <br> 
@@ -86,6 +88,7 @@
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </a> 
 </kbd> 
+<br> 
 <br> 
 <kbd> 
 <kbd>Database</kbd> 
@@ -101,6 +104,7 @@
 </a> 
 </kbd> 
 <br> 
+<br> 
 <kbd> 
 <kbd>System, Networking & Deployment</kbd> 
 <br> 
@@ -112,6 +116,7 @@
 </a> 
 </kbd> 
 <br> 
+<br> 
 <kbd> 
 <kbd>Terminal Scripts</kbd> 
 <br> 
@@ -122,6 +127,7 @@
   <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" />
 </a> 
 </kbd> 
+<br> 
 <br> 
 <kbd> 
 <kbd>Text editor, IDE, Notebook</kbd> 
